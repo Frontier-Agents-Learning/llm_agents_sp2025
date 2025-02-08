@@ -6,9 +6,9 @@ We meet once a week on average to discuss Lectures and any related advancements 
 
 ### Study Session: Sunday, Feb 02, 2025
   
-    * Lecture 1: Inference time techniques.
+* Lecture 1: Inference time techniques.
       Study session recording: https://youtu.be/z2NUTDnWYmM
       Auto-generated Notes: 
 
 
-    * Lecture 2: Reasoning in LLMs
+* Lecture 2: Reasoning in LLMs
