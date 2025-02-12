@@ -5,10 +5,14 @@ Discord:
 We meet once a week on average to discuss Lectures and any related advancements in the field.
 
 ### Study Session: Sunday, Feb 02, 2025
-  
 * Lecture 1: Inference time techniques.  <br>
       Study session recording: https://youtu.be/z2NUTDnWYmM   <br>
-      Auto-generated Notes:   
+      [AI generated Notes](Notes_Feb02_2025.pdf)
+
+### Study Session: Sunday, Feb 09, 2025
+* Lecture 2: Reasoning in LLMs. <br> 
+      Study session recording: https://youtu.be/gG2qhuS9_cE <br>
+      [AI generated notes](Notes_Feb09_2025.pdf)
 
 
 * Lecture 2: Reasoning in LLMs  
