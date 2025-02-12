@@ -15,4 +15,6 @@ We meet once a week on average to discuss Lectures and any related advancements 
       [AI generated notes](Notes_Feb09_2025.pdf)
 
 
-* Lecture 2: Reasoning in LLMs  
+### Study Session: Sunday, Feb 16, 2025
+* Lecture 3: On Reasoning, Memory, and Planning of Language Agents 
+     Upcoming
