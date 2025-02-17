@@ -14,7 +14,13 @@ We meet once a week on average to discuss Lectures and any related advancements 
       Study session recording: https://youtu.be/gG2qhuS9_cE <br>
       [AI generated notes](Notes_Feb09_2025.pdf)
 
+### Study Session: Sunday, Feb 15, 2025
+* Special session: DeepSeek Deep Dive by Yatharth 
+    Study session recording: https://youtu.be/dKBYrXxLKE8 <br>
+    [Slides](reasoning_GRPO.pptx)
+    [AI generated notes](Notes_Feb15_2025_deepseek.pdf)
 
 ### Study Session: Sunday, Feb 16, 2025
 * Lecture 3: On Reasoning, Memory, and Planning of Language Agents 
-     Upcoming
+    Study session recording: https://youtu.be/ODoqrtVY4lE <br>
+    [AI generated notes](Notes_Feb16_2025.pdf)
