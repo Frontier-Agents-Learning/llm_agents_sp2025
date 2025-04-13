@@ -24,3 +24,15 @@ We meet once a week on average to discuss Lectures and any related advancements 
 * Lecture 3: On Reasoning, Memory, and Planning of Language Agents <br>
     Study session recording: https://youtu.be/ODoqrtVY4lE <br>
     [AI generated notes](Notes_Feb16_2025.pdf)
+
+
+### Study Session: Saturday, Apr 5, 2025
+* Llama 4 discussion. <br>
+   Study session recording: https://youtu.be/LwdTTDKlae8 <br>
+   [AI generated notes](Notes_Apr5_2025.pdf)
+
+
+### Study Session: Saturday, Apr 12, 2025
+* Faithfulness of Chain-of-thought LLM models. <br>
+   Study session recording: https://youtu.be/HEAgM1zVPlU <br>
+   [AI generated notes](Notes_Apr12_2025.pdf)
