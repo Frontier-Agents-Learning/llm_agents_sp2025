@@ -25,6 +25,10 @@ We meet once a week on average to discuss Lectures and any related advancements 
     Study session recording: https://youtu.be/ODoqrtVY4lE <br>
     [AI generated notes](Notes_Feb16_2025.pdf)
 
+### Study Session: Sunday, Mar 15, 2025
+* MCP Deep Dive by Yatharth<br>
+    Study session recording: https://youtu.be/YvvOcrW-zrI <br>
+    [AI generated notes](Notes_Mar15_2025.pdf)
 
 ### Study Session: Saturday, Apr 5, 2025
 * Llama 4 discussion. <br>
