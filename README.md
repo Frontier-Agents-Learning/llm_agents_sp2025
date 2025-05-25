@@ -40,3 +40,7 @@ We meet once a week on average to discuss Lectures and any related advancements 
 * Faithfulness of Chain-of-thought LLM models. <br>
    Study session recording: https://youtu.be/HEAgM1zVPlU <br>
    [AI generated notes](Notes_Apr12_2025.pdf)
+
+### Study Session: Saturday, May 24, 2025
+* DSPy: Discussion. <br>
+   [Session slides](DSPy_may24_2025.pdf)
